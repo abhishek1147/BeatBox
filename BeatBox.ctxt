@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BeatBox
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ buildGUI()
+comment3.params=
+comment3.target=void\ setUpMidi()
+comment4.params=
+comment4.target=void\ buildTrackAndStart()
+comment5.params=list
+comment5.target=void\ makeTracks(int[])
+comment6.params=comd\ chan\ one\ two\ tick
+comment6.target=javax.sound.midi.MidiEvent\ makeEvent(int,\ int,\ int,\ int,\ int)
+numComments=7
